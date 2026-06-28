@@ -9,9 +9,8 @@ public:
             else
              OddSum+= num[i] - '0';   // 0 subtract krna se character digit integer bn jati hai
         }
-        if(EvenSum == OddSum){
+        if(EvenSum == OddSum)
             return true;
-        }
         return false;
     }
 };
