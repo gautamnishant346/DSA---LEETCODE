@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Divide and Conquer
 |  |
@@ -46,4 +47,16 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
