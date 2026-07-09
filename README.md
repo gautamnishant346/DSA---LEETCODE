@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
