@@ -4,15 +4,12 @@ public:
         string res;
         stack<char> st;
         for(int i=0; i<s.size(); i++){
-            if(st.empty()){
-                st.push(s[i]);
-                continue;
-            }
             if(s[i] == '*'){
                 st.pop();
-                continue;
             }
-            st.push(s[i]);  
+            else{
+               st.push(s[i]);
+            }  
         }
         while(!st.empty()){
             res.push_back(st.top());
