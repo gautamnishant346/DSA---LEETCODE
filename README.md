@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -82,11 +83,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
