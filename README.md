@@ -67,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -91,5 +94,6 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
