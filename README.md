@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -111,4 +113,8 @@
 | [0496-next-greater-element-i](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
