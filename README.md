@@ -54,6 +54,7 @@
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -121,4 +123,5 @@
 | ------- |
 | [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
