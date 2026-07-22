@@ -18,6 +18,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
