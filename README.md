@@ -78,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0061-rotate-list) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -137,6 +138,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Recursion
