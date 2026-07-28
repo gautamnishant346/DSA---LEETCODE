@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
@@ -159,6 +160,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0704-binary-search) |
 ## Heap (Priority Queue)
 |  |
