@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0986-interval-list-intersections) |
@@ -173,6 +174,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
