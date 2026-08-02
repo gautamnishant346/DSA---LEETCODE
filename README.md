@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0409-longest-palindrome) |
@@ -78,6 +80,7 @@
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -100,6 +103,7 @@
 | [0061-rotate-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -177,6 +181,7 @@
 | [0035-search-insert-position](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
