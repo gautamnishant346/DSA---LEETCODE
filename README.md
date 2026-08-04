@@ -32,6 +32,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0704-binary-search](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
