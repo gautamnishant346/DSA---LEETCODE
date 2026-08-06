@@ -8,7 +8,7 @@ public:
         long long mid = (low + high) / 2;
         if(mid * mid == x)
          return mid;
-        else if(mid * mid < x){
+        else if(mid * mid < x){ 
          res = mid;
          low = mid + 1;
         }
