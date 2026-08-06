@@ -91,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1025-divisor-game) |
@@ -187,6 +188,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
