@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +101,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1025-divisor-game) |
@@ -200,6 +204,7 @@
 | [0035-search-insert-position](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0367-valid-perfect-square) |
@@ -216,4 +221,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
