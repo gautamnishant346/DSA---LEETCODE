@@ -1,9 +1,15 @@
 class Solution {
 public:
+  struct cmp{
+    bool operator()(pair<int,int>& a,pair<int,int>& b){
+        if(a.first == b.first)
+         return a.second > b.second;
+        return a.first > b.first;
+    }
+  };
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n = nums.size();
-        priority_queue<
-    pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,cmp> pq;
         unordered_map<int,int> f;
         for(int i=0; i<n; i++)
          f[nums[i]]++;
@@ -15,7 +21,7 @@ public:
                 pq.push(curr);
                 continue;
             }
-            if(curr.first < pq.top().first)
+            if(curr.first <= pq.top().first)
              continue;
             pq.pop();
             pq.push(curr);
