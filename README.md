@@ -33,6 +33,7 @@
 | [0739-daily-temperatures](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
