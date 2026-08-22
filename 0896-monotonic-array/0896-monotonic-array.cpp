@@ -10,8 +10,6 @@ public:
             if(nums[i] < nums[i+1])
              decr = false;
         }
-        if(incr == true || decr == true)
-         return true;
-        return false;
+       return incr || decr;
     }
 };
