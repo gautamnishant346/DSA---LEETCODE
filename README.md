@@ -40,6 +40,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -255,6 +256,7 @@
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Newton's Method
 |  |
