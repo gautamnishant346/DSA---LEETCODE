@@ -11,7 +11,7 @@ public:
             int b = pq.top();
             pq.pop();
 
-            if(a != b)
+            if(a != b) 
              pq.push(a - b);
         }
         if(pq.empty())
