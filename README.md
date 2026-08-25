@@ -94,6 +94,7 @@
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -110,6 +111,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0973-k-closest-points-to-origin) |
@@ -159,6 +161,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -199,6 +202,7 @@
 | [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Greedy
@@ -206,6 +210,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -248,6 +253,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Newton's Method
