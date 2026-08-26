@@ -22,6 +22,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +111,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
@@ -211,6 +213,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
@@ -253,6 +256,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0973-k-closest-points-to-origin) |
