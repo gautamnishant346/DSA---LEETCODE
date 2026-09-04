@@ -23,6 +23,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0503-next-greater-element-ii) |
