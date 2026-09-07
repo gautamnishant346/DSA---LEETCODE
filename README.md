@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -297,6 +298,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -339,4 +341,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
