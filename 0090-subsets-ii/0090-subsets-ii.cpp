@@ -1,28 +1,30 @@
 class Solution {
 public:
-void fun(vector<int>& nums,int i,vector<int>& temp,vector<vector<int>>& ans){
+void fun(vector<int>& nums,int i,vector<int>& tmp,vector<vector<int>>& res){
     if(i == nums.size()){
-        ans.push_back(temp);
+        res.push_back(tmp);
         return;
     }
-    // Include
-    temp.push_back(nums[i]);
-    fun(nums,i+1,temp,ans);
-    temp.pop_back();
 
-    // Exclude
-    while(i+1 < nums.size() && nums[i] == nums[i+1]){
-        i++;
+    //nhi lenge
+    int j=i;
+    while(j+1 < nums.size() && nums[j] == nums[j+1]){
+        j++;
     }
+    fun(nums,j+1,tmp,res);
 
-    fun(nums,i+1,temp,ans);
+    // lenge
+    tmp.push_back(nums[i]);
+    fun(nums,i+1,tmp,res);
+    tmp.pop_back();
+
 }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<int> temp;
-        vector<vector<int>> ans;
-        sort(nums.begin(),nums.end());
+      vector<int> tmp;
+      vector<vector<int>> res;
+      sort(nums.begin(),nums.end());
+      fun(nums,0,tmp,res);
 
-        fun(nums,0,temp,ans);
-        return ans;
+      return res;  
     }
 };
