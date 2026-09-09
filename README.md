@@ -61,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0409-longest-palindrome) |
@@ -346,6 +348,11 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
