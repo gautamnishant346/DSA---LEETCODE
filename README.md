@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0035-search-insert-position) |
@@ -118,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0217-contains-duplicate) |
@@ -160,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0283-move-zeroes) |
