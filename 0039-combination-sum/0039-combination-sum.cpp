@@ -1,34 +1,32 @@
 class Solution {
 public:
-void fun(vector<int> arr,int n,int idx,vector<int> dairy,int sum,vector<vector<int>>& ans,int tar)
+void fun(vector<int> arr,int n,int i,int sum,vector<int> dairy,vector<vector<int>>& res,int tar)
 {
-    if(idx == n){
+    if(i == n){
         if(sum == tar)
-         ans.push_back(dairy);
+         res.push_back(dairy);
         return;
     }
-
     // Nahi lege
-    fun(arr,n,idx+1,dairy,sum,ans,tar);
+    fun(arr,n,i+1,sum,dairy,res,tar);
 
-    // Choice 2 : Lege
-    if(arr[idx] + sum <=tar){
-        dairy.push_back(arr[idx]);
-        sum += arr[idx];
-        fun(arr,n,idx,dairy,sum,ans,tar);
+    // Choice 2 : lege
+    if(arr[i] + sum <= tar){
+        dairy.push_back(arr[i]);
+        sum += arr[i];
+        fun(arr,n,i,sum,dairy,res,tar);
         dairy.pop_back();
-        sum -= arr[idx];
+        sum -= arr[i];
     }
     return;
 }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        int n = candidates.size();
-        int sum = 0;
-        int idx = 0;
-        vector<int> dairy;
-        vector<vector<int>> ans;
+       int n = candidates.size();
+       int sum = 0;
+       vector<int> dairy;
+       vector<vector<int>> res;
+       fun(candidates,n,0,sum,dairy,res,target);
 
-        fun(candidates,n,idx,dairy,sum,ans,target);
-        return ans;
+       return res; 
     }
 };
