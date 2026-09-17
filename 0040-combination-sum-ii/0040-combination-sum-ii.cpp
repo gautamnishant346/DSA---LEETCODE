@@ -1,38 +1,32 @@
 class Solution {
 public:
-void fun(vector<int> arr,int n,int i,int sum,vector<int> dairy,vector<vector<int>>& res,int tar)
+void fun(vector<int>& arr,int n,int i,int sum,vector<int>& tmp,vector<vector<int>>& res,int target)
 {
+    if(sum > target) return;
     if(i == n){
-        if(sum == tar)
-         res.push_back(dairy);
+        if(sum == target)
+         res.push_back(tmp);
         return;
     }
-    // Dont Take
-    int j = i;
-    while(j+1 < n && arr[j] == arr[j+1]){
-       j++;
-    }
-    fun(arr,n,j+1,sum,dairy,res,tar);
-    // Take
-    if(arr[i] + sum <= tar){
-     dairy.push_back(arr[i]);
-     sum += arr[i];
-     fun(arr,n,i+1,sum,dairy,res,tar);
-     dairy.pop_back();
-     sum -= arr[i];
-    }
+    // Choice 1 : Pick
+    tmp.push_back(arr[i]);
+    fun(arr,n,i+1,sum+arr[i],tmp,res,target);
+    tmp.pop_back();
 
-    return;
+    // Choice 2 : Not Pick
+    int j = i+1;
+    while(j < n && arr[j] == arr[i]){
+        j++;
+    }
+    fun(arr,n,j,sum,tmp,res,target);
 }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        int n = candidates.size();
-        int sum = 0;
-        vector<int> dairy;
-        vector<vector<int>> res;
+      sort(candidates.begin(),candidates.end());
+      int n = candidates.size();
+      vector<int> tmp;
+      vector<vector<int>> res;
+      fun(candidates,n,0,0,tmp,res,target);
 
-        fun(candidates,n,0,sum,dairy,res,target);
-
-        return res;
+      return res;
     }
 };
