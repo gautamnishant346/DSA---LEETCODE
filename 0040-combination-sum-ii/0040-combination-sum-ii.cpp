@@ -1,6 +1,6 @@
 class Solution {
 public:
-void fun(vector<int>& arr,int n,int i,int sum,vector<int>& tmp,vector<vector<int>>& res,int target)
+void fun(vector<int> arr,int n,int i,int sum,vector<int> tmp,vector<vector<int>>& res,int target)
 {
     if(sum > target) return;
     if(i == n){
