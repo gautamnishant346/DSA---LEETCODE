@@ -17,7 +17,7 @@ public:
        return res;
       queue<TreeNode*> q;
       q.push(root);
-      bool lefttoright = true;
+      bool lefttoright = 1;
       while(!q.empty()){
         int lvlSize = q.size();
         vector<int> tmp(lvlSize);
@@ -26,7 +26,7 @@ public:
         while(lvlSize--){
             TreeNode* t = q.front();
             q.pop();
-            if(lefttoright){
+            if(lefttoright == 1){
                 tmp[first] = t->val;
                 first++;
             }else{
@@ -41,7 +41,7 @@ public:
 
         }
         res.push_back(tmp);
-        lefttoright = !lefttoright;
+        lefttoright = 1 - lefttoright;
       }    
       return res;
     }
