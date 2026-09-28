@@ -19,7 +19,7 @@ void fun(TreeNode* root,TreeNode* p,TreeNode* q,TreeNode* &ans)
     }
     if(root->val < p->val && root->val < q->val)
      fun(root->right,p,q,ans);
-    else if(root->val > q->val && root->val > q->val)
+    else if(root->val > q->val && root->val > p->val)
      fun(root->left,p,q,ans);
     else{
         ans = root;
