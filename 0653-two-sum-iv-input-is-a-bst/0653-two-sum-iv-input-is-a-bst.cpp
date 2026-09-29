@@ -11,27 +11,54 @@
  */
 class Solution {
 public:
-void fun(TreeNode* root,int k, vector<int> &tmp)
-{
-    if(root == nullptr) return;
-    fun(root->left,k,tmp);
-    tmp.push_back(root->val);
-    fun(root->right,k,tmp);
-    return;
-}
+ stack<TreeNode*> asc;
+ stack<TreeNode*> desc;
+ TreeNode* getSmall(){
+    if(asc.empty()) return nullptr;
+    TreeNode* small = asc.top();
+    asc.pop();
+    TreeNode* rightChild = small->right;
+    while(rightChild){
+        asc.push(rightChild);
+        rightChild = rightChild->left;
+    }
+    return small;
+ }
+ TreeNode* getBig()
+ {
+    if(desc.empty()) return nullptr;
+    TreeNode* big = desc.top();
+    desc.pop();
+    TreeNode* leftChild = big->left;
+    while(leftChild){
+        desc.push(leftChild);
+        leftChild = leftChild->right;
+    }
+    return big;
+ }
     bool findTarget(TreeNode* root, int k) {
-        vector<int> tmp;
-        fun(root,k,tmp);
-        int i = 0;
-        int j = tmp.size()-1;
-        while(i < j){
-            int sum = tmp[i] + tmp[j];
-            if(sum == k) return true;
-            if(sum < k)  
-              i++;
-            else
-              j--;
+       if(root == nullptr) return false;
+       TreeNode* t = root;
+       while(t){
+        asc.push(t);
+        t = t->left;
+       }   
+       t = root;
+       while(t){
+        desc.push(t);
+        t = t->right;
+       }
+       TreeNode* i = getSmall();
+       TreeNode* j = getBig();
+       while(i && j && i != j && i->val <= j->val){
+        int sum = i->val + j->val;
+        if(sum == k) return true;
+        if(sum > k) 
+          j = getBig();
+        else{
+            i = getSmall();
         }
-        return false;
+       }
+       return false;
     }
 };
