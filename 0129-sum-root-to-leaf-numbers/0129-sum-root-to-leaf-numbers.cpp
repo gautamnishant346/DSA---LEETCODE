@@ -18,6 +18,7 @@ void fun(TreeNode* root,int sum)
    sum = sum * 10 + root->val;
    if(root->left == nullptr && root->right == nullptr){
     res += sum;
+    return;
    }
    fun(root->left,sum);
    fun(root->right,sum);
