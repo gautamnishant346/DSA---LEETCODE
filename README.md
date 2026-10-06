@@ -14,6 +14,7 @@
 | [0047-permutations-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0090-subsets-ii) |
@@ -157,6 +158,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0268-missing-number) |
