@@ -52,6 +52,7 @@
 | [0724-find-pivot-index](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -347,6 +349,7 @@
 | [0074-search-a-2d-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0867-transpose-matrix) |
 ## Quickselect
 |  |
 | ------- |
