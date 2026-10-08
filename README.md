@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0066-plus-one) |
@@ -159,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0189-rotate-array) |
@@ -341,6 +343,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
