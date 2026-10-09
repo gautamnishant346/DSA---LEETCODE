@@ -4,12 +4,10 @@ public:
         int sum = 0;
         int m = mat.size();
         int n = mat[0].size();
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(i == j)
-                 sum += mat[i][j];
-                else if(j == n-i-1)
-                 sum += mat[i][j];
+        for(int i=0; i<n; i++){
+            sum += mat[i][i];  // Pd
+            if(i != n-i-1){
+                sum += mat[i][n-i-1];   //Sd
             }
         }
         return sum;
