@@ -70,6 +70,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -353,6 +354,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 ## Quickselect
 |  |
 | ------- |
