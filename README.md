@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0078-subsets) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0867-transpose-matrix) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
