@@ -2,13 +2,13 @@ class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
         unordered_map<int,int> freq;
-        for(int num : nums){
-            freq[num]++;
+        for(int i=0; i<nums.size(); i++){
+            freq[nums[i]]++;
         }
         vector<int> ans;
-        for(auto & [num,count] : freq){
-            if(count == 1){
-                ans.push_back(num);
+        for(auto it = freq.begin(); it != freq.end(); it++){
+            if(it->second == 1){
+                ans.push_back(it->first);
             }
         }
         return ans;
