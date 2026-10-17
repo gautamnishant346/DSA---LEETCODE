@@ -166,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0069-sqrtx) |
