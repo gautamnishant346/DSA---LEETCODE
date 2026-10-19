@@ -74,6 +74,7 @@
 | [1528-shuffle-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -165,6 +166,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
