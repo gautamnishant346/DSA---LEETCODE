@@ -22,7 +22,7 @@ public:
             }
             i--;
         }
-        chars.resize(idx);
+        //chars.resize(idx);
         return idx;
     }
 };
