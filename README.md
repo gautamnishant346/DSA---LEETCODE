@@ -76,6 +76,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3978-unique-middle-element](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [0767-reorganize-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3978-unique-middle-element](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/3978-unique-middle-element) |
 ## Greedy
 |  |
 | ------- |
