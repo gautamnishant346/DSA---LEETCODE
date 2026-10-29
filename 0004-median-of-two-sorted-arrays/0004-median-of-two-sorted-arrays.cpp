@@ -27,6 +27,7 @@ public:
             return arr[n / 2];
         }
         else{
+            //  right middle index(n / 2)  left middle index(n / 2 - 1)
             return (arr[n / 2] + arr[n / 2 - 1]) / 2.0;
         }
     }
