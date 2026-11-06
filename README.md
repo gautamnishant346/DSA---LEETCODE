@@ -78,6 +78,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2747-count-zero-request-servers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3978-unique-middle-element](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -556,4 +559,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
