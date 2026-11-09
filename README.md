@@ -77,6 +77,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2057-smallest-index-with-equal-value](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2747-count-zero-request-servers) |
