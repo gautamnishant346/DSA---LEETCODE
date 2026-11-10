@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
