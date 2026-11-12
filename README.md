@@ -81,6 +81,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3978-unique-middle-element](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
