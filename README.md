@@ -131,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0050-powx-n) |
@@ -239,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
