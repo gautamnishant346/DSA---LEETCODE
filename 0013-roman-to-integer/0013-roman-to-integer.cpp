@@ -13,10 +13,10 @@ public:
         int ans = 0;
         for(int i=0; i<s.size(); i++){
             if(i+1 < s.size() && value[s[i]] < value[s[i+1]]){
-                ans = ans - value[s[i]];
+                ans -= value[s[i]];
             }
             else{
-                ans = ans + value[s[i]];
+                ans += value[s[i]];
             }
         }
         return ans;
