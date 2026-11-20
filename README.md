@@ -250,6 +250,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/gautamnishant346/DSA---LEETCODE/tree/master/0383-ransom-note) |
